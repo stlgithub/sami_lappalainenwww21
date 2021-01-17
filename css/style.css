@@ -1,0 +1,8 @@
+a:link {
+    color:blueviolet;
+    text-decoration: darkmagenta;
+}
+a:hover {
+    color:green;
+    background-color: ghostwhite;
+}
